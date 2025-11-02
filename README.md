@@ -90,10 +90,6 @@ Publish Directory: dist
 📸 Screenshots
 Home Page	Code & Preview
 
-	
-
-(Replace with your own screenshots later if you like.)
-
 💡 Future Enhancements
 
 🔐 Secure backend API to hide Gemini key
@@ -105,3 +101,11 @@ Home Page	Code & Preview
 📚 Component gallery
 
 📊 Prompt history & analytics
+
+👩‍💻 Author
+
+Muskan Gupta
+💼 Built with ❤️ using React, Vite, Tailwind, and Google Gemini API.<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/c101104e-9af4-4d03-90a8-eb3f143080bb" />
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/c46bf4f2-57fc-45c1-bb63-542ec04603f8" />
+<img width="1920" height="1080" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/b57b1dd2-e263-481e-a78b-828027d8db9f" />
+<img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/ea9280df-99b0-4443-99ba-b4eec6aa44be" />
