@@ -295,7 +295,7 @@ Requirements:
       )}
 
       <footer className="text-center text-gray-600 dark:text-gray-300 py-4 text-sm">
-        Built with ❤️ by Muskan Gupta • GenUI Studio • 2025
+        Built with ❤️ by Muskan Gupta • GenUI Code Studio • 2025
       </footer>
     </div>
   );
