@@ -26,10 +26,7 @@ const Navbar = () => {
       {/* Left Logo */}
       <div className="logo">
         <h3 className="text-[22px] font-[800] text-purple-500 dark:text-purple-600 tracking-wide">
-          GenUI Studio
-          <span className="text-[16px] font-[400] text-gray-400 dark:text-gray-700 ml-2">
-            – Design intelligent, responsive components with AI magic ✨
-          </span>
+          GenUI Code Studio
         </h3>
       </div>
 
